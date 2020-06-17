@@ -1,3 +1,3 @@
 "Hello world!"
 
-fart pizza
+make_fart_pizza()
